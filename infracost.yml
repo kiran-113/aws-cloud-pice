@@ -1,5 +1,5 @@
 projects:
-  - path: dev
+  - path: /
     name: development
     terraform_var_files:
-      - dev.tfvars
+      - ec2instance.auto.tfvars
