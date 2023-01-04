@@ -1,0 +1,5 @@
+projects:
+  - path: dev
+    name: development
+    terraform_var_files:
+      - dev.tfvars
